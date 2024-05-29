@@ -1,2 +1,2 @@
 # fitclub
-my first project
+Project 1st
